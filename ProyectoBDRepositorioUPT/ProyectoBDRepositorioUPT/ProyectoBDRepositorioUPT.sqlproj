@@ -75,7 +75,6 @@
     <Build Include="dbo\Tables\tbl_Articulo.sql" />
     <Build Include="dbo\Tables\tbl_Usuario.sql" />
     <Build Include="dbo\Tables\tbl_Consulta_Trabajo.sql" />
-    <None Include="Scripts\ScriptsIgnoredOnImport.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Scripts\Script.tbl_Materia.sql" />
