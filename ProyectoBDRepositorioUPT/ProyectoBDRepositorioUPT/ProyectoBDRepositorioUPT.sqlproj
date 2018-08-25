@@ -79,5 +79,6 @@
   <ItemGroup>
     <PostDeploy Include="Scripts\Script.tbl_Materia.sql" />
     <None Include="Scripts\Script.tbl_Palabra.sql" />
+    <None Include="Scripts\Script.tbl_Editorial.sql" />
   </ItemGroup>
 </Project>
